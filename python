@@ -1,3 +1,10 @@
 虚拟环境的创建：
 1、pip freeze > requirements.txt（导出虚拟环境依赖包）
 2、pip install --no-cache-dir -r requirements.txt（在虚拟环境下一键安装依赖包）
+
+
+
+常用库：
+1、Queue：
+      生成队列迭代器
+   
